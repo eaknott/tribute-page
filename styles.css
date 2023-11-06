@@ -1,0 +1,38 @@
+body {
+    background-color: #f4f4f5;
+  }
+  
+  #main {
+    text-align: center;
+  }
+  
+  #headline {
+    margin: 50px auto 25px auto;
+  }
+  
+  li {
+    text-align: left;
+    list-style: square;
+    padding: 5px;
+  }
+  
+  img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  blockquote {
+    text-align: left;
+    margin-top: 50px;
+    background-color: #a3a3a3;
+    color: #0f172a;
+    border-radius: 7px;
+    padding: 20px;
+    opacity: 80%;
+  }
+  
+  #book-citation {
+    text-align: left;
+    margin-top: 80px;
+  }
