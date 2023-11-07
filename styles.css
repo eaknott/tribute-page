@@ -16,12 +16,14 @@ body {
     padding: 5px;
   }
   
+  /* image just below header */
   img {
     display: block;
     max-width: 100%;
     height: auto;
   }
   
+  /* quote at the bottom of the page */
   blockquote {
     text-align: left;
     margin-top: 50px;
@@ -32,6 +34,7 @@ body {
     opacity: 80%;
   }
   
+  /* works cited section */
   #book-citation {
     text-align: left;
     margin-top: 80px;
